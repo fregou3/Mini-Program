@@ -1,0 +1,19 @@
+{
+  "name": "mini-program_1.4",
+  "version": "1.0.0",
+  "main": "server_new.js",
+  "scripts": {
+    "start": "node server_new.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "WeChat Mini-Program Simulator for Clarins",
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
